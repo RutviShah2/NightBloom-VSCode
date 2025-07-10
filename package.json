@@ -1,0 +1,22 @@
+{
+  "name": "nightbloom-vscode",
+  "displayName": "NightBloom",
+  "description": "A calm, dark theme with gentle colors for peaceful coding",
+  "version": "0.0.1",
+  "publisher": "rutvishah",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "NightBloom By Rutvi Shah",
+        "uiTheme": "vs-dark",
+        "path": "./themes/NightBloom-By-Rutvi-Shah-color-theme.json"
+      }
+    ]
+  }
+}

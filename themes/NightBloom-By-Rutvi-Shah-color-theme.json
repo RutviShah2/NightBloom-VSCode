@@ -1,0 +1,139 @@
+{
+  "name": "NightBloom By Rutvi Shah",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#000000",
+    "editor.foreground": "#E6C4FF",
+    "editorCursor.foreground": "#F3D1FF",
+    "editorLineNumber.foreground": "#A076C5",
+    "editorLineNumber.activeForeground": "#F0D0FF",
+    "editor.selectionBackground": "#5C018580",
+    "editor.inactiveSelectionBackground": "#3F005B40",
+    "editorIndentGuide.background": "#2e2e2e",
+    "editorIndentGuide.activeBackground": "#3e3e3e",
+
+    "activityBar.background": "#000000",
+    "activityBar.foreground": "#CDA8FF",
+    "activityBar.inactiveForeground": "#6f4b8a",
+    "activityBarBadge.background": "#A076C5",
+
+    "sideBar.background": "#000000",
+    "sideBar.foreground": "#C9A8FF",
+    "sideBarTitle.foreground": "#A26FC7",
+    "sideBarSectionHeader.background": "#000000",
+    "sideBarSectionHeader.foreground": "#B088F9",
+
+    "statusBar.background": "#000000",
+    "statusBar.foreground": "#E6C4FF",
+
+    "titleBar.activeBackground": "#000000",
+    "titleBar.inactiveBackground": "#000000",
+    "titleBar.activeForeground": "#B088F9",
+    "titleBar.inactiveForeground": "#8E6DBA",
+
+    "window.activeTitleBar.background": "#000000",
+    "window.inactiveTitleBar.background": "#000000",
+
+    "editorGroupHeader.tabsBackground": "#000000",
+    "tab.activeBackground": "#000000",
+    "tab.inactiveBackground": "#0a0a0a",
+    "tab.border": "#000000",
+    "tab.activeForeground": "#CDA8FF",
+    "tab.inactiveForeground": "#6f4b8a",
+
+    "panel.background": "#000000",
+    "panel.border": "#1a1a1a"
+  },
+  "tokenColors": [
+    {
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#B288D6"
+      }
+    },
+    {
+      "scope": ["string", "constant.other.placeholder"],
+      "settings": {
+        "foreground": "#D5A3FF"
+      }
+    },
+    {
+      "scope": ["variable", "identifier"],
+      "settings": {
+        "foreground": "#D6A4FF"
+      }
+    },
+    {
+      "scope": ["keyword", "storage.type", "storage.modifier"],
+      "settings": {
+        "foreground": "#C792EA",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": ["entity.name.function", "support.function", "meta.function-call"],
+      "settings": {
+        "foreground": "#E6C4FF"
+      }
+    },
+    {
+      "scope": ["constant.numeric", "constant.language", "constant.character"],
+      "settings": {
+        "foreground": "#BE9FE1"
+      }
+    },
+    {
+      "scope": ["entity.name.tag", "meta.tag.sgml"],
+      "settings": {
+        "foreground": "#BF8BFF"
+      }
+    },
+    {
+      "scope": ["markup.bold"],
+      "settings": {
+        "fontStyle": "bold",
+        "foreground": "#D9B3FF"
+      }
+    },
+    {
+      "scope": ["markup.italic"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#DAB6FF"
+      }
+    },
+    {
+      "scope": ["markup.underline"],
+      "settings": {
+        "fontStyle": "underline",
+        "foreground": "#E8CCFF"
+      }
+    },
+    {
+      "scope": ["punctuation"],
+      "settings": {
+        "foreground": "#AA7BC3"
+      }
+    },
+    {
+      "scope": ["markup.quote"],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#C49BE2"
+      }
+    },
+    {
+      "scope": ["markup.inserted"],
+      "settings": {
+        "foreground": "#B48AD6"
+      }
+    },
+    {
+      "scope": ["markup.deleted"],
+      "settings": {
+        "foreground": "#E7B3FF"
+      }
+    }
+  ]
+}
