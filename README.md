@@ -22,7 +22,7 @@ Now featuring lighter purple colors for improved contrast and easier reading whi
 - 🌑 **Dark Background** — built for late-night clarity and comfort  
 - 🧠 **Focus-Friendly** — no distractions, no eye strain  
 - 🖤 **Themed Debug + Status Bars** — full immersive experience  
-- 💖 **Crafted with Love** — by Rutvi, for creators like you
+- 💖 **Crafted with Love** — by Rutvi, for creators like you  
 - 👁️ **Better Contrast** — lighter purples for easier reading
 
 ---
@@ -43,7 +43,7 @@ Now featuring lighter purple colors for improved contrast and easier reading whi
 - Midnight sessions with your favorite playlist  
 - Journaling in comments and writing expressive code  
 - Finding peace while working in silence  
-- Turning your editor into your personal comfort space 💻🕯️
+- Turning your editor into your personal comfort space 💻🕯️  
 - Long coding sessions with reduced eye strain
 
 ---
@@ -63,3 +63,15 @@ If you enjoy NightBloom, please share your thoughts, leave a review, or just say
 Let's grow this night garden together 🌸🌙
 
 > _Let your code bloom in stillness — with NightBloom by Rutvi_
+
+---
+
+## 🖼️ Theme Preview
+
+A little glimpse into the NightBloom vibe — cozy code, soft glow, and peaceful colors ✨
+
+> 💻 File: `theme-preview.js` (crafted to show off all the beautiful syntax)
+
+![NightBloom Theme Preview](preview.png)
+
+---

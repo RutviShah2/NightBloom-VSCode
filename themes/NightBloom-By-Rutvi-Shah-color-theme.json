@@ -49,90 +49,90 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#D0B0E0"
+        "foreground": "#A99AB8" // dusty lilac for comments
       }
     },
     {
       "scope": ["string", "constant.other.placeholder"],
       "settings": {
-        "foreground": "#E8D0FF"
+        "foreground": "#FFD1DC" // blush pink for strings
       }
     },
     {
       "scope": ["variable", "identifier"],
       "settings": {
-        "foreground": "#E8D0FF"
+        "foreground": "#A0A0FF" // periwinkle for variables
       }
     },
     {
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#D8C0F0",
+        "foreground": "#D6ACFF", // light lavender for keywords
         "fontStyle": "bold"
       }
     },
     {
       "scope": ["entity.name.function", "support.function", "meta.function-call"],
       "settings": {
-        "foreground": "#F0D8FF"
+        "foreground": "#EFB0FF" // light pink-lavender for functions
       }
     },
     {
       "scope": ["constant.numeric", "constant.language", "constant.character"],
       "settings": {
-        "foreground": "#D8C0F0"
+        "foreground": "#E9D5FF" // soft orchid purple for numbers
       }
     },
     {
       "scope": ["entity.name.tag", "meta.tag.sgml"],
       "settings": {
-        "foreground": "#D0B0F0"
+        "foreground": "#B388EB" // muted violet for tags
       }
     },
     {
       "scope": ["markup.bold"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#E8D0FF"
+        "foreground": "#E9D5FF" // soft orchid for bold markup
       }
     },
     {
       "scope": ["markup.italic"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#E8D0FF"
+        "foreground": "#E9D5FF" // soft orchid for italic markup
       }
     },
     {
       "scope": ["markup.underline"],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#F0E0FF"
+        "foreground": "#E9D5FF" // soft orchid for underline
       }
     },
     {
       "scope": ["punctuation"],
       "settings": {
-        "foreground": "#C8A0E8"
+        "foreground": "#C8A0E8" // keep punctuation soft
       }
     },
     {
       "scope": ["markup.quote"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#D8C0F0"
+        "foreground": "#B388EB" // muted violet for quotes
       }
     },
     {
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#D0B0E0"
+        "foreground": "#D6ACFF" // lavender for inserted markup
       }
     },
     {
       "scope": ["markup.deleted"],
       "settings": {
-        "foreground": "#F0C0FF"
+        "foreground": "#FFD1DC" // blush pink for deleted markup
       }
     }
   ]
