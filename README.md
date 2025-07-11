@@ -70,7 +70,6 @@ Let's grow this night garden together 🌸🌙
 
 A little glimpse into the NightBloom vibe — cozy code, soft glow, and peaceful colors ✨
 
-> 💻 File: `theme-preview.js` (crafted to show off all the beautiful syntax)
 
 ![NightBloom Theme Preview](preview.png)
 
