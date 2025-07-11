@@ -19,5 +19,9 @@
         "path": "./themes/NightBloom-By-Rutvi-Shah-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RutviShah2/NightBloom-VSCode.git"
   }
 }
