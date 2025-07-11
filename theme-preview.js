@@ -48,8 +48,19 @@ try {
 }
 
 // ------------------ 🎨 Colors & Numbers ------------------
-const softLavender = "#D6ACFF";   // Light Lavender 💜
-const blushPink    = "#FFD1DC";   // Blush Pink 🌸
+const plumPurple = "#DDA0DD";     // Plum Purple for Keywords 💜
+const lightPink = "#FFB6C1";      // Light Pink for Strings 🌸
+const skyBlue = "#87CEEB";        // Sky Blue for Variables 🔵
+const hotPink = "#FF69B4";        // Hot Pink for Functions 💖
+const khakiYellow = "#F0E68C";    // Khaki Yellow for Numbers 💛
+const mediumPurple = "#9370DB";   // Medium Purple for Tags 🟣
+const goldYellow = "#FFD700";     // Gold Yellow for Bold ✨
+const lavender = "#E6E6FA";       // Lavender for Italic 💜
+const steelBlue = "#B0C4DE";      // Light Steel Blue for Underline 🔷
+const silver = "#C0C0C0";         // Silver for Punctuation ⚪
+const paleGreen = "#98FB98";      // Pale Green for Quotes 🌿
+const limeGreen = "#32CD32";      // Lime Green for Inserted 🟢
+const tomatoRed = "#FF6347";      // Tomato Red for Deleted 🔴
 const themeStrength = 100;        // Aesthetic Power 💅✨
 
 /*
